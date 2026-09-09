@@ -26,7 +26,7 @@ This project analyzes customer demographics, vehicle characteristics, and insura
 
 All cleaning was carried out in Power Query and every transformation is logged in Applied Steps and can be re-run if source data changes.
 
-![Power Query Applied Steps](images/Power_Query_Applied_steps.jpg)
+![Power Query Applied Steps](images/power_query_applied_steps.jpg)
 
 **Key cleaning decisions:**
 
