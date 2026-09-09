@@ -59,7 +59,7 @@ Male and female customers show virtually identical patterns — ~71% of each gen
 ### 3. Education Level vs. Claims
 Claim frequency (50.0%–51.5%) and claim amount ($49,519–$51,735) are essentially flat across all education levels. **No meaningful relationship found.**
 
-![Education Level](images/Education_Pivot.jpg)
+![Education Level](images/Education_pivot.jpg)
 
 ### 4. Car Color vs. Claims
 Claim frequency (50.9%–55.3%) and claim amount ($48,383–$51,520) show no clear pattern by color — consistent with the expectation that color isn't a real insurance risk factor.
