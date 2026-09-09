@@ -84,14 +84,6 @@ Across all six questions, claim frequency and claim amount stay within a narrow 
 
 ---
 
-## Dashboard
-
-Built in Excel with 4 KPI cards (Total Customers, Total Claims Filed, Average Claim Amount, % Customers With a Claim), 6 chart panels answering each business question, and two slicers (Gender, Income Bracket) connected across all pivot tables for interactive filtering.
-
-![Dashboard Detail](images/dashboard_detail.png)
-
----
-
 ## Data Limitations
 
 - Car colors (e.g., "Fuscia," "Mauv," "Goldenrod") and unusual car makes alongside real manufacturers suggest this is a synthetic/generated dataset — findings are presented as a demonstration of method, not real-world business conclusions.
