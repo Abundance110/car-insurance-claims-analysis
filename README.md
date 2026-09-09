@@ -74,7 +74,7 @@ Average claim amount ranges $49,160 (Highly Urban) to $50,757 (Urban) — notabl
 ### 6. Household Income vs. Claims
 Claim frequency (51–52%) and claim amount ($49,955–$50,288) are flat across all three income brackets. **No meaningful relationship found.**
 
-![Income Bracket](images/household_income_pivot_use.jpg)
+![Income Bracket](images/household_income_pivot.jpg)
 
 ---
 
