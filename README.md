@@ -95,5 +95,5 @@ Across all six questions, claim frequency and claim amount stay within a narrow 
 
 ## Files in This Repo
 
-- `Car_Insurance_Analysis.xlsx` — full workbook (cleaned data, pivot tables, dashboard)
+- `Car_Insurance_Policies_analysis.xlsx` — full workbook (cleaned data, pivot tables, dashboard)
 - `images/` — dashboard and process screenshots referenced above
