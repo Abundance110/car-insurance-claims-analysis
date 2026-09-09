@@ -26,7 +26,7 @@ This project analyzes customer demographics, vehicle characteristics, and insura
 
 All cleaning was carried out in Power Query and every transformation is logged in Applied Steps and can be re-run if source data changes.
 
-![Power Query Applied Steps](images/applied_steps.png)
+![Power Query Applied Steps](images/Power_Query_Applied_steps.jpg)
 
 **Key cleaning decisions:**
 
@@ -49,24 +49,32 @@ All cleaning was carried out in Power Query and every transformation is logged i
 ### 1. Car Usage by Gender and Kids Driving
 Male and female customers show virtually identical patterns — ~71% of each gender has zero kids driving their car, with the remaining ~29% split almost identically across 1, 2, and 3 kids. The same holds for car use type (private vs. commercial). **Neither factor meaningfully predicts household driver-sharing.**
 
+![Car Usage by Gender and Kids Driving](images/car_usage_pivot.jpg)
+
 ### 2. Claims by Car Make and Model
 **Ford** leads in total claims (1,694) among top makes, but average claim amount is nearly flat across makes ($48,793–$51,784). By model, the **Mercedes-Benz E-Class** stands out with a notably higher average claim amount ($56,595) than every other top model — the single most visible signal in this entire analysis, worth a follow-up look given its smaller sample size.
 
-![Claims by Car Make and Model](images/claims_by_make_model.png)
+![Claims by Car Make and Model](images/claim_freq_pivot.jpg)
 
 ### 3. Education Level vs. Claims
 Claim frequency (50.0%–51.5%) and claim amount ($49,519–$51,735) are essentially flat across all education levels. **No meaningful relationship found.**
 
+![Education Level](images/Education_Pivot.jpg)
+
 ### 4. Car Color vs. Claims
 Claim frequency (50.9%–55.3%) and claim amount ($48,383–$51,520) show no clear pattern by color — consistent with the expectation that color isn't a real insurance risk factor.
+
+![Car Color](images/car_color_pivot.jpg)
 
 ### 5. Claim Amount by Coverage Zone
 Average claim amount ranges $49,160 (Highly Urban) to $50,757 (Urban) — notably, **Highly Urban shows the lowest average, not the highest**, running counter to the common "urban = costlier claims" assumption.
 
-![Claim amount]/images/coverage_zone%20pivot.jpg
+![Coverage Zone](images/coverage_zone_pivot.jpg)
 
 ### 6. Household Income vs. Claims
 Claim frequency (51–52%) and claim amount ($49,955–$50,288) are flat across all three income brackets. **No meaningful relationship found.**
+
+![Income Bracket](images/household_income_pivot_use.jpg)
 
 ---
 
