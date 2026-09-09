@@ -54,7 +54,7 @@ Male and female customers show virtually identical patterns — ~71% of each gen
 ### 2. Claims by Car Make and Model
 **Ford** leads in total claims (1,694) among top makes, but average claim amount is nearly flat across makes ($48,793–$51,784). By model, the **Mercedes-Benz E-Class** stands out with a notably higher average claim amount ($56,595) than every other top model — the single most visible signal in this entire analysis, worth a follow-up look given its smaller sample size.
 
-![Claims by Car Make and Model](images/claim_freq_pivot.jpg)
+![Claims by Car Make and Model](images/claim_carmake_model_pivot.jpg)
 
 ### 3. Education Level vs. Claims
 Claim frequency (50.0%–51.5%) and claim amount ($49,519–$51,735) are essentially flat across all education levels. **No meaningful relationship found.**
