@@ -49,7 +49,7 @@ All cleaning was carried out in Power Query and every transformation is logged i
 ### 1. Car Usage by Gender and Kids Driving
 Male and female customers show virtually identical patterns — ~71% of each gender has zero kids driving their car, with the remaining ~29% split almost identically across 1, 2, and 3 kids. The same holds for car use type (private vs. commercial). **Neither factor meaningfully predicts household driver-sharing.**
 
-![Car Usage by Gender and Kids Driving](images/car_usage_pivot.jpg)
+![Car Usage by Gender and Kids Driving](car_usage_pivot.jpg)
 
 ### 2. Claims by Car Make and Model
 **Ford** leads in total claims (1,694) among top makes, but average claim amount is nearly flat across makes ($48,793–$51,784). By model, the **Mercedes-Benz E-Class** stands out with a notably higher average claim amount ($56,595) than every other top model — the single most visible signal in this entire analysis, worth a follow-up look given its smaller sample size.
